@@ -1,3 +1,3 @@
-# Data science 
+# Data Science 
 Analysis practise and test
-Using algorithms and methods
+Using Algorithms and Methods
