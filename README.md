@@ -1,3 +1,3 @@
 # Data Science 
-Analysis practise and test
+Analysis Practise and Testing
 Using Algorithms and Methods
