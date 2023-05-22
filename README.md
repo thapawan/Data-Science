@@ -4,4 +4,6 @@
 
 Using Algorithms and Methods
 
+Learning and testing phase
+
 **Ongoing
